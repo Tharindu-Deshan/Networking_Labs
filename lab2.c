@@ -24,6 +24,7 @@ int main()
 
 void run(asignal * inputsignal) 
 {
+    //This is run command
     int A;
     int omega;
     int sigma;
